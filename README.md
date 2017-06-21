@@ -23,3 +23,7 @@ by dg
 ## canvasでパーティクルする話
 
 [派手なものを作ろう](https://scrapbox.io/ipl/devipl-20170620-particle)
+
+## Rはどのようにしてfor文を避けているか
+
+[Rはどのようにしてfor文を避けているか.ipynb](https://github.com/DevIPL/2017spring/blob/master/R%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6for%E6%96%87%E3%82%92%E9%81%BF%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B.ipynb)
