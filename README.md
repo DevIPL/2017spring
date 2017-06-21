@@ -15,3 +15,7 @@
 ## Vue．ｊｓでの開発環境
 
 by dg
+
+## Chromebookを開発環境にする
+
+[Chromebookを開発環境にする by miyazaki](https://scrapbox.io/ipl/devipl170620miyazakiスライド)
