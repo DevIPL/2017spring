@@ -19,3 +19,7 @@ by dg
 ## Chromebookを開発環境にする
 
 [Chromebookを開発環境にする by miyazaki](https://scrapbox.io/ipl/devipl170620miyazakiスライド)
+
+## canvasでパーティクルする話
+
+[派手なものを作ろう](https://scrapbox.io/ipl/devipl-20170620-particle)
