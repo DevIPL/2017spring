@@ -12,7 +12,9 @@
 
 [Python で ユニットテスト by dnaga392](https://dnaga392.github.io/devipl170620/ "Python で ユニットテスト by dnaga392")
 
-## Vue．ｊｓでの開発環境
+## Vue.jsでの開発環境
+
+![Vuejs開発環境](Vuejs開発環境.png "Vuejs開発環境")
 
 by dg
 
